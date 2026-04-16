@@ -1,0 +1,60 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+**/.venv/
+**/venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+**/*.pyc
+
+# Local databases / session files
+*.db
+*.db-journal
+session.db
+sessions/
+**/sessions/
+
+# ADK / local runtime artifacts
+.adk/
+**/.adk/
+artifacts/
+**/artifacts/
+
+# Build / distribution
+build/
+dist/
+**/dist/
+.eggs/
+*.egg-info/
+
+# Logs
+*.log
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node
+node_modules/
+**/node_modules/
+
+# Temporary files
+tmp/
+tmp*/
+.cache/
+.local/
