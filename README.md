@@ -79,4 +79,4 @@ bash run_local.sh
 ## Demo
 [▶ Watch Demo on YouTube](https://youtu.be/b5oLkYx-YJ8)
 
-[![Demo Video](https://img.youtube.com/vi/IzfEXGgclxo/0.jpg)](https://youtu.be/b5oLkYx-YJ8)
+[![Demo Video](https://img.youtube.com/vi/b5oLkYx-YJ8/0.jpg)](https://youtu.be/b5oLkYx-YJ8)
