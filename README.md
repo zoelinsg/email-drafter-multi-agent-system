@@ -76,3 +76,7 @@ bash run_local.sh
     * 80% completed
     * can deliver by tomorrow 5 PM
 
+## Demo
+[▶ Watch Demo on YouTube](https://youtu.be/b5oLkYx-YJ8)
+
+[![Demo Video](https://img.youtube.com/vi/IzfEXGgclxo/0.jpg)](https://youtu.be/b5oLkYx-YJ8)
